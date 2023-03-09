@@ -14,6 +14,8 @@ Use node index.js in the command line and answer the prompts in the terminal to 
 
 ![alt text](https://github.com/Frostysnacks/awesomereadme/blob/main/Mockup/mock2.PNG)
 
+The test folder contains the generated readme
+
 
 ## Live Page
 
