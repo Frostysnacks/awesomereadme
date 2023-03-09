@@ -17,6 +17,8 @@ Use node index.js in the command line and answer the prompts in the terminal to 
 
 ## Live Page
 
+N/A
+
 
 ## License
 
