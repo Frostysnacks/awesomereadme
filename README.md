@@ -1,16 +1,18 @@
 # awesomereadme
 ## Description
 
-This is a readme generator that generates a readme through prompts in the terminal using JS Node.
+This is a readme generator that generates a readme through prompts in the terminal using JS Node. This project was my first application I made using JS Node features, so it was a challenge to make, I hope you like it!
 
 
 ## Installation
 run the npm init -y command and then install inquirer 8.2.4 by using the npm i inquirer@8.2.4 command in the terminal
 
 ## Usage
+Use node index.js in the command line and answer the prompts in the terminal to generate a readme file based on your prompt answers!
 
 ## Mock up
 
+![alt text](https://github.com/Frostysnacks/awesomereadme/blob/main/Mockup/mock2.PNG)
 
 
 ## Live Page
