@@ -9,7 +9,7 @@ run the npm init -y command and then install inquirer 8.2.4 by using the npm i i
 
 ## Usage
 
-##Mockup
+## Mock up
 
 
 
